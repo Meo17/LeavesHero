@@ -1,0 +1,3 @@
+$ids = implode(",",$_POST["ids"]);
+$ids_array = explode(",",$row->ids);
+
